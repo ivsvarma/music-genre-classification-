@@ -5,8 +5,8 @@ import librosa
 import audioread
 
 
-DATASET_PATH = "C:\\Users\\ivsva\\Downloads\\archive\\Data\\genres_original"
-JSON_PATH = "data_10.json"
+DATASET_PATH = "add your path"
+JSON_PATH = "create a file name .json and add it "
 SAMPLE_RATE = 22050
 TRACK_DURATION = 30  # measured in seconds
 SAMPLES_PER_TRACK = SAMPLE_RATE * TRACK_DURATION
